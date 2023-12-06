@@ -15,7 +15,7 @@ export default function CardDetails({ isOpen, closeModal, car}:
     CardDetailsProps) {
 
     return (
-        <div>
+        <>
          <Transition appear show={isOpen} as={Fragment}>
             <Dialog as="div" className="relative z-10" onClose={closeModal}>
                 <Transition.Child
@@ -101,6 +101,6 @@ export default function CardDetails({ isOpen, closeModal, car}:
           </div>
          </Dialog>
         </Transition>
-    </div>
+    </>
     )
 }
