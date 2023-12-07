@@ -2,6 +2,8 @@
 
 ## Introduction
 The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Link%20Here-blue)](https://car-showcase-project-seven.vercel.app/)
  
 # What was done in the project:
 - Use Next.js 13 App Router and Server Side Rendering
